@@ -2,8 +2,8 @@
 <install version="1.5" client="both" type="language" method="upgrade">
     <name>French (Fr)</name>
     <tag>fr-FR</tag>
-    <version>1.5.11</version>
-    <creationDate>2009-05-21</creationDate>
+    <version>1.5.12</version>
+    <creationDate>2009-06-30</creationDate>
     <author>French translation team : Joomla!fr</author>
     <authoremail>opware2000@joomla.fr</authoremail>
     <authorurl>www.joomla.fr</authorurl>
