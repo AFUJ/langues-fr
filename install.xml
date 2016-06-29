@@ -2,14 +2,14 @@
 <install version="1.5" client="both" type="language" method="upgrade">
     <name>French (Fr)</name>
     <tag>fr-FR</tag>
-    <version>1.5.19</version>
-    <creationDate>2010-07-16</creationDate>
+    <version>1.5.20</version>
+    <creationDate>2010-07-18</creationDate>
     <author>French translation team : Joomla!fr</author>
     <authoremail>traduction@joomla.fr</authoremail>
     <authorurl>www.joomla.fr</authorurl>
     <copyright>Copyright (C) 2005 - 2010 Joomla.fr et Open Source Matters. Tous droits réservés</copyright>
     <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
-    <description>French language pack for Joomla! 1.5.19</description>
+    <description>French language pack for Joomla! 1.5.20</description>
     <administration>
       <files folder="admin">
         <filename>fr-FR.com_admin.ini</filename>
