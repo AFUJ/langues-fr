@@ -23,6 +23,7 @@
 		<filename>fr-FR.com_weblinks.ini</filename>
 		<filename>fr-FR.com_wrapper.ini</filename>
 		<filename>fr-FR.ini</filename>
+		<filename>fr-FR.lib_joomla.ini</filename>
 		<filename>fr-FR.localise.php</filename>
 		<filename>fr-FR.mod_articles_archive.ini</filename>
 		<filename>fr-FR.mod_articles_archive.sys.ini</filename>
@@ -76,8 +77,6 @@
 		<filename>fr-FR.tpl_beez_20.sys.ini</filename>
 		<filename>fr-FR.tpl_beez5.ini</filename>
 		<filename>fr-FR.tpl_beez5.sys.ini</filename>
-		<filename>fr-FR.tpl_rhuk_milkyway.ini</filename>
-		<filename>fr-FR.tpl_rhuk_milkyway.sys.ini</filename>
 		<filename file="meta">install.xml</filename>
 		<filename file="meta">fr-FR.xml</filename>
 	</files>

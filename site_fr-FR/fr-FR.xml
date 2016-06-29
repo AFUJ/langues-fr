@@ -14,7 +14,7 @@
 		<name>French (FR)</name>
 		<tag>fr-FR</tag>
 		<rtl>0</rtl>
-		<locale>fr_FR.utf8, fr_FR.UTF-8, fr_FR.UTF-8@euro, French_Standard, french, fr_FR, fre_FR, fr, france</locale>
+		<locale>fr_FR.utf8, fr_FR.UTF-8, fr_FR.UTF-8@euro, fr_FR, fre_FR, fr, france</locale>
 		<firstDay>1</firstDay>
 	</metadata>
 	<params />
