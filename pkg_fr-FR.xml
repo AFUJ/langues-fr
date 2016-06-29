@@ -2,12 +2,12 @@
 <extension type="package" version="2.5">
 	<name>French Language Pack</name>
 	<packagename>fr-FR</packagename>
-	<version>2.5.2</version>
-	<creationDate>2012-03-06</creationDate>
+	<version>2.5.3</version>
+	<creationDate>2012-03-15</creationDate>
 	<url></url>
 	<packager>Joomla! FR</packager>
 	<packagerurl>www.joomla.fr</packagerurl>
-	<description>2.5.2 Joomla Full French Language Package with files for TinyMCE</description>
+	<description>2.5.3 Joomla Full French Language Package with files for TinyMCE</description>
 	<files>
 		<file type="file" id="fr-FR">tinymce_lang_pack_fr_J25.zip</file>
 		<file type="language" client="site" id="fr-FR">site_fr-FR.zip</file>
