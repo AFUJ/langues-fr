@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- $Id: fr-FR.xml 20196 2011-02-23 02:40:25Z daneel $ -->
-<install version="1.6" client="administrator" type="language" method="upgrade">
+<extension version="1.7" client="administrator" type="language" method="upgrade">
 	<name>French (FR)</name>
     <tag>fr-FR</tag>
-	<version>1.6.4</version>
+	<version>1.7.1</version>
 	<creationDate>2011-02-23</creationDate>
 	<author>French translation team : joomla.fr</author>
 	<authorEmail>traduction@joomla.fr</authorEmail>
@@ -77,8 +77,8 @@
 		<filename>fr-FR.mod_login.sys.ini</filename>
 		<filename>fr-FR.mod_menu.ini</filename>
 		<filename>fr-FR.mod_menu.sys.ini</filename>
-		<filename>fr-FR.mod_online.ini</filename>
-		<filename>fr-FR.mod_online.sys.ini</filename>
+		<filename>fr-FR.mod_multilangstatus.ini</filename>
+		<filename>fr-FR.mod_multilangstatus.sys.ini</filename>
 		<filename>fr-FR.mod_popular.ini</filename>
 		<filename>fr-FR.mod_popular.sys.ini</filename>
 		<filename>fr-FR.mod_quickicon.ini</filename>
@@ -91,10 +91,6 @@
 		<filename>fr-FR.mod_title.sys.ini</filename>
 		<filename>fr-FR.mod_toolbar.ini</filename>
 		<filename>fr-FR.mod_toolbar.sys.ini</filename>
-		<filename>fr-FR.mod_unread.ini</filename>
-		<filename>fr-FR.mod_unread.sys.ini</filename>
-		<filename>fr-FR.plg_authentication_example.ini</filename>
-		<filename>fr-FR.plg_authentication_example.sys.ini</filename>
 		<filename>fr-FR.plg_authentication_gmail.ini</filename>
 		<filename>fr-FR.plg_authentication_gmail.sys.ini</filename>
 		<filename>fr-FR.plg_authentication_joomla.ini</filename>
@@ -173,4 +169,4 @@
 		<filename file="meta">fr-FR.xml</filename>
 	</files>
 	<params />
-</install>
+</extension>

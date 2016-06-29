@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<metafile version="1.6" client="administrator">
+<metafile version="1.7" client="administrator">
 	<tag>fr-FR</tag>
 	<name>French (FR)</name>
 	<description>French administrator language for Joomla 1.6</description>
-	<version>1.6.4</version>
+	<version>1.7.1</version>
 	<creationDate>2011-02-23</creationDate>
 	<author>French translation team : joomla.fr</author>
 	<authorEmail>traduction@joomla.fr</authorEmail>
