@@ -2,14 +2,14 @@
 <extension type="file" version="3.0" method="upgrade">
 	<name>TinyMCE langue FR</name>
 	<author>French translation team : joomla.fr</author>
-	<version>3.5.1.1</version>
-	<creationDate>6 juin 2012</creationDate>
+	<version>3.5.4.1</version>
+	<creationDate>9 nov 2012</creationDate>
 	<copyright>(C) 2005-2012 French Translation Team</copyright>
 	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
 	<authorEmail>traduction@joomla.fr</authorEmail>
 	<authorUrl>www.joomla.fr</authorUrl>
 	<description><![CDATA[		
-		<h3>Installation du pack de langue FR de TinyMCE 3.5.1.1 pour Joomla 2.5 effectuée avec succès</h3>
+		<h3>Installation du pack de langue FR de TinyMCE 3.5.4.1 pour Joomla 2.5 effectuée avec succès</h3>
         <div style="font-weight:normal">
  		N'oubliez pas de sélectionner la langue FR dans la 
  		<a href="index.php?option=com_plugins&view=plugins&filter_search=TinyMCE"><strong>gestion du plug-in TinyMCE</strong></a><br />
