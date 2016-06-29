@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <extension version="2.5" client="administrator" type="language" method="upgrade">
-	<name>French (FR)</name>
+	<name>French (fr-FR)</name>
     <tag>fr-FR</tag>
-	<version>2.5.3</version>
-	<creationDate>2012-03-15</creationDate>
+	<version>2.5.4.1</version>
+	<creationDate>3 avril 2012</creationDate>
 	<author>French translation team : joomla.fr</author>
 	<authorEmail>traduction@joomla.fr</authorEmail>
 	<authorUrl>www.joomla.fr</authorUrl>
@@ -34,6 +34,8 @@
 		<filename>fr-FR.com_finder.sys.ini</filename>
 		<filename>fr-FR.com_installer.ini</filename>
 		<filename>fr-FR.com_installer.sys.ini</filename>
+		<filename>fr-FR.com_joomlaupdate.ini</filename>
+		<filename>fr-FR.com_joomlaupdate.sys.ini</filename>
 		<filename>fr-FR.com_languages.ini</filename>
 		<filename>fr-FR.com_languages.sys.ini</filename>
 		<filename>fr-FR.com_login.ini</filename>
@@ -162,8 +164,6 @@
 		<filename>fr-FR.plg_system_cache.sys.ini</filename>
 		<filename>fr-FR.plg_system_debug.ini</filename>
 		<filename>fr-FR.plg_system_debug.sys.ini</filename>
-		<filename>fr-FR.plg_system_finder.ini</filename>
-		<filename>fr-FR.plg_system_finder.sys.ini</filename>
 		<filename>fr-FR.plg_system_highlight.ini</filename>
 		<filename>fr-FR.plg_system_highlight.sys.ini</filename>
 		<filename>fr-FR.plg_system_languagecode.ini</filename>
