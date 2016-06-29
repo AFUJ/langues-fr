@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<metafile version="2.5" client="administrator">
+<metafile version="3.0" client="administrator">
     <tag>fr-FR</tag>
 	<name>French (fr-FR)</name>
-	<description>French administrator language for Joomla 2.5</description>
-	<version>2.5.22.1</version>
-	<creationDate>01-03-2014</creationDate>
+	<version>3.0.3.1</version>
+	<creationDate>22 jan 2013</creationDate>
 	<author>French translation team : joomla.fr</author>
 	<authorEmail>traduction@joomla.fr</authorEmail>
 	<authorUrl>www.joomla.fr</authorUrl>
-	<copyright>Copyright (C) 2005 - 2014 Open Source Matters &amp; Joomla.fr. All rights reserved.</copyright>
+	<copyright>Copyright (C) 2005 - 2013 Open Source Matters &amp; Joomla.fr. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description>French administrator language for Joomla 3.0</description>
 	<metadata>
 		<name>Français (FR)</name>
 		<tag>fr-FR</tag>
