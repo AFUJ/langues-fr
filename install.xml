@@ -2,14 +2,14 @@
 <install version="1.5" client="both" type="language" method="upgrade">
     <name>French (Fr)</name>
     <tag>fr-FR</tag>
-    <version>1.5.12</version>
-    <creationDate>2009-06-30</creationDate>
+    <version>1.5.15</version>
+    <creationDate>2009-08-01</creationDate>
     <author>French translation team : Joomla!fr</author>
     <authoremail>opware2000@joomla.fr</authoremail>
     <authorurl>www.joomla.fr</authorurl>
     <copyright>Copyright (C) 2005 - 2009 Joomla.fr et Open Source Matters. Tous droits réservés</copyright>
     <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
-    <description>French language pack for Joomla! 1.5.11</description>
+    <description>French language pack for Joomla! 1.5.15</description>
     <administration>
       <files folder="admin">
         <filename>fr-FR.com_admin.ini</filename>
@@ -60,7 +60,6 @@
 		<filename>fr-FR.mod_online.ini</filename>
 		<filename>fr-FR.mod_popular.ini</filename>
 		<filename>fr-FR.mod_quickicon.ini</filename>
-		<filename>fr-FR.mod_stats.ini</filename>
 		<filename>fr-FR.mod_status.ini</filename>
 		<filename>fr-FR.mod_submenu.ini</filename>
 		<filename>fr-FR.mod_title.ini</filename>
