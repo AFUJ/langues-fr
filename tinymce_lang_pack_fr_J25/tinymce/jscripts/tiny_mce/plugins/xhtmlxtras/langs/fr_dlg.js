@@ -29,5 +29,5 @@ remove:"Supprimer",
 insert_date:"Ins\u00E9rer la date/heure courante",
 option_ltr:"Gauche \u00E0 droite",
 option_rtl:"Droite \u00E0 gauche",
-attribs_title:"Ins\u00E9rer/Editer un attribut"
+attribs_title:"Ins\u00E9rer/Modifier un attribut"
 });

@@ -3,7 +3,7 @@ tinyMCE.addI18n('fr.template_dlg',{
 title:"Gabarit de mise en page",
 label:"Mise en page",
 desc_label:"Description",
-desc : 'Ins\u00E9rer/Sauver une mise en page',
+desc : 'Ins\u00E9rer/Enregistrer une mise en page',
 select:"S\u00E9l\u00E9ctionnez le gabarit",
 preview:"Pr\u00E9visualiser",
 warning:"Attention: changer de mise en page peut supprimer des \u00E9l\u00E9ments du contenu",

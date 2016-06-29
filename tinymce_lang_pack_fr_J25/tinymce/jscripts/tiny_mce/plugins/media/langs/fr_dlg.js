@@ -1,6 +1,6 @@
 // FR lang variables - Sarki pour Joomla! FR 2011-07-17
 tinyMCE.addI18n('fr.media_dlg',{
-title:"Ins\u00E9rer/Editer un m\u00E9dia",
+title:"Ins\u00E9rer/Modifier un m\u00E9dia",
 general:"G\u00E9n\u00E9ral",
 advanced:"Avanc\u00E9",
 file:"Fichier",

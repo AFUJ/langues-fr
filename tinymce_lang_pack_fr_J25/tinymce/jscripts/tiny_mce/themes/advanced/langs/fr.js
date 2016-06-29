@@ -58,7 +58,7 @@ blockquote_desc:"Retrait",
 clipboard_msg:"La fonction Copier/Coller n'est pas activée sous Mozilla et Firefox. En savoir plus ?",
 path:"Chemin",
 newdocument:"Voulez-vous effacer tout le contenu de l'éditeur?",
-toolbar_focus:"Barre d'outils - Alt+Q, Editeur contenu - Alt-Z, Elément suivant - Alt-X",
+toolbar_focus:"Barre d'outils - Alt+Q, Éditeur contenu - Alt-Z, Élément suivant - Alt-X",
 more_colors:"Plus de couleurs...",
 
 // Accessibility Strings

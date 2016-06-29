@@ -1,6 +1,6 @@
 // FR lang variables - Sarki pour Joomla! FR 2012-06-06
 tinyMCE.addI18n('fr.style_dlg',{
-title:"Ins\u00E9rer/Editer un style",
+title:"Ins\u00E9rer/Modifier un style",
 apply:"Appliquer",
 toggle_insert_span:"Ins\u00E9rer une balise span",
 text_tab:"Texte",
