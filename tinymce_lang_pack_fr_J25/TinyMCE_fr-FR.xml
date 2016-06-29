@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension type="file" version="2.5" method="upgrade">
+<extension type="file" version="3.0" method="upgrade">
 	<name>TinyMCE langue FR</name>
 	<author>French translation team : joomla.fr</author>
 	<version>3.5.1.1</version>
@@ -40,9 +40,4 @@
 					<filename>tinymce/jscripts/tiny_mce/themes/simple/langs/fr.js</filename>
 		</files>
 	</fileset>
-<!--
-    <updateservers>
-        <server type="collection" priority="1" name="French Language TinyMCE Updates">http://update.joomla.fr/tinymcelist.xml</server>
-    </updateservers>
--->
 </extension>

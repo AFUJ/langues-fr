@@ -1,5 +1,7 @@
 <?php
 /**
+ * @package    Joomla.Language
+ *
  * @copyright   Copyright (C) 2005 - 2011 Open Source Matters, Inc. All rights reserved.
  * @license             GNU General Public License version 2 or later; see LICENSE.txt
  */
@@ -7,7 +9,7 @@
 /**
  * fr-FR localise class
  *
- * @package             Joomla.Site
+ * @package             Joomla.Language
  * @since               2.5
  */
 abstract class fr_FRLocalise {    //// !!!! NOTE the use of fr_FR for the class !!!// do the same for your language prefix.

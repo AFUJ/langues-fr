@@ -1,14 +1,15 @@
 <?php
 /**
- * @version             $Id: fr-FR.localise.php 15628 2010-03-27 05:20:29Z infograf768 $
- * @copyright   Copyright (C) 2005 - 2012 Open Source Matters, Inc. All rights reserved.
+ * @package    Joomla.Language
+ *
+ * @copyright   Copyright (C) 2005 - 2011 Open Source Matters, Inc. All rights reserved.
  * @license             GNU General Public License version 2 or later; see LICENSE.txt
  */
  
 /**
  * fr-FR localise class
  *
- * @package             Joomla.Site
+ * @package             Joomla.Language
  * @since               2.5
  */
 abstract class fr_FRLocalise {    //// !!!! NOTE the use of fr_FR for the class !!!// do the same for your language prefix.
@@ -57,7 +58,7 @@ abstract class fr_FRLocalise {    //// !!!! NOTE the use of fr_FR for the class 
          * Returns the upper length limit of search words
          *
          * @return      integer  The upper length limit of search words.
-         * @since      2.5
+         * @since       2.5
          */
         public static function getUpperLimitSearchWord() {
                 return 20;
@@ -66,7 +67,7 @@ abstract class fr_FRLocalise {    //// !!!! NOTE the use of fr_FR for the class 
          * Returns the number of chars to display when searching
          *
          * @return      integer  The number of chars to display when searching.
-         * @since       2.5
+         * @since      2.5
          */
         public static function getSearchDisplayedCharactersNumber() {
                 return 200;

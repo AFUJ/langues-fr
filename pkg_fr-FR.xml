@@ -2,8 +2,8 @@
 <extension type="package" version="2.5">
 	<name>French Language Pack</name>
 	<packagename>fr-FR</packagename>
-	<version>2.5.6.1</version>
-	<creationDate>20 juin 2012</creationDate>
+	<version>2.5.7.1</version>
+	<creationDate>19/07/2012</creationDate>
 	<author>French translation team : joomla.fr</author>
 	<authorEmail>traduction@joomla.fr</authorEmail>
 	<authorUrl>www.joomla.fr</authorUrl>
@@ -14,10 +14,10 @@
 	<packagerurl>www.joomla.fr</packagerurl>
 	<description>
 		<![CDATA[
-		<h3>Paquet de langue français complet Joomla! fr-FR version 2.5.6v1</h3>
-		<h3>Joomla! 2.5.6 Full French (fr-FR) Language Package version 2.5.6v1</h3>
+		<h3>Paquet de langue français complet Joomla! fr-FR version 2.5.7v1</h3>
+		<h3>Joomla! 2.5.7 Full French (fr-FR) Language Package version 2.5.7v1</h3>
 		<br>
-		<h3>Installation du pack de langue fr-FR de TinyMCE 3.5.1 pour Joomla 2.5 inclus</h3>
+		<h3>Installation du pack de langue fr-FR de TinyMCE 3.5.1 pour Joomla 2.5.7 inclus</h3>
 		<div style="font-weight: normal;">N'oubliez pas de sélectionner la langue FR dans les <a href="index.php?option=com_plugins&amp;view=plugins&amp;filter_search=TinyMCE"><strong>paramètres du plug-in 'Éditeur - TinyMCE'</strong></a> (paramètre  'Langue de l'éditeur' = fr).<br><br>
  		Si vous utilisez la <strong>détection automatique</strong>, veillez à ce que soient installés les différents packs de langue de TinyMCE correspondants aux packs de langue installés pour Joomla!</div>
 		]]>
