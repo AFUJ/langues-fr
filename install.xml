@@ -2,17 +2,17 @@
 <install version="1.5" client="both" type="language" method="upgrade">
     <name>French (Fr)</name>
     <tag>fr-FR</tag>
-    <version>1.5.10</version>
-    <creationDate>2009-03-14</creationDate>
+    <version>1.5.23</version>
+    <creationDate>2012-04-05</creationDate>
     <author>French translation team : Joomla!fr</author>
-    <authoremail>opware2000@joomla.fr</authoremail>
+    <authoremail>traduction@joomla.fr</authoremail>
     <authorurl>www.joomla.fr</authorurl>
-    <copyright>Copyright (C) 2005 - 2009 Joomla.fr et Open Source Matters. Tous droits réservés</copyright>
+    <copyright>Copyright (C) 2005 - 2010 Joomla.fr et Open Source Matters. Tous droits réservés</copyright>
     <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
-    <description>French language pack for Joomla! 1.5.10</description>
+    <description>French language pack for Joomla! 1.5.23</description>
     <administration>
       <files folder="admin">
-      <filename>fr-FR.com_admin.ini</filename>
+        <filename>fr-FR.com_admin.ini</filename>
 		<filename>fr-FR.com_banners.ini</filename>
 		<filename>fr-FR.com_banners.menu.ini</filename>
 		<filename>fr-FR.com_cache.ini</filename>
@@ -103,6 +103,7 @@
 		<filename>fr-FR.tpl_ja_purity.ini</filename>
 		<filename>fr-FR.tpl_khepri.ini</filename>
 		<filename>fr-FR.tpl_rhuk_milkyway.ini</filename>
+		<filename>index.html</filename>
 		<filename file="meta">fr-FR.xml</filename>
         </files>
   </administration>
@@ -121,6 +122,7 @@
 		<filename>fr-FR.com_user.ini</filename>
 		<filename>fr-FR.com_weblinks.ini</filename>
 		<filename>fr-FR.com_wrapper.ini</filename>
+		<filename>fr-FR.ignore.php</filename>
 		<filename>fr-FR.ini</filename>
 		<filename>fr-FR.mod_archive.ini</filename>
 		<filename>fr-FR.mod_banners.ini</filename>
@@ -155,6 +157,7 @@
 		<filename>fr-FR.tpl_beez.ini</filename>
 		<filename>fr-FR.tpl_ja_purity.ini</filename>
 		<filename>fr-FR.tpl_rhuk_milkyway.ini</filename>
+		<filename>index.html</filename>
 		<filename file="meta">fr-FR.xml</filename>
 </files>
   </site>
