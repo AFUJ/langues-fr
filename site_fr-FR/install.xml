@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<install version="1.6" client="site" type="language" method="upgrade">
+<extension version="1.7" client="site" type="language" method="upgrade">
 	<name>French (FR)</name>
     <tag>fr-FR</tag>
-	<version>1.6.4</version>
-	<creationDate>2010-12-24</creationDate>
+	<version>1.7.3</version>
+	<creationDate>2011-11-14</creationDate>
 	<author>French translation team : joomla.fr</author>
 	<authorEmail>traduction@joomla.fr</authorEmail>
 	<authorUrl>www.joomla.fr</authorUrl>
-    <copyright>Copyright (C) 2005 - 2010 joomla.fr et Open Source Matters. Tous droits réservés</copyright>
+    <copyright>Copyright (C) 2005 - 2011 joomla.fr et Open Source Matters. Tous droits réservés</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<description>fr-FR site language</description>
 	<files>
@@ -25,6 +25,10 @@
 		<filename>fr-FR.files_joomla.sys.ini</filename>
 		<filename>fr-FR.ini</filename>
 		<filename>fr-FR.lib_joomla.ini</filename>
+		<filename>fr-FR.lib_joomla.sys.ini</filename>
+		<filename>fr-FR.lib_phpmailer.sys.ini</filename>
+		<filename>fr-FR.lib_phputf8.sys.ini</filename>
+		<filename>fr-FR.lib_simplepie.sys.ini</filename>
 		<filename>fr-FR.localise.php</filename>
 		<filename>fr-FR.mod_articles_archive.ini</filename>
 		<filename>fr-FR.mod_articles_archive.sys.ini</filename>
@@ -72,6 +76,7 @@
 		<filename>fr-FR.mod_whosonline.sys.ini</filename>
 		<filename>fr-FR.mod_wrapper.ini</filename>
 		<filename>fr-FR.mod_wrapper.sys.ini</filename>
+		<filename>fr-FR.pkg_joomla.sys.ini</filename>
 		<filename>fr-FR.tpl_atomic.ini</filename>
 		<filename>fr-FR.tpl_atomic.sys.ini</filename>
 		<filename>fr-FR.tpl_beez_20.ini</filename>
@@ -82,4 +87,4 @@
 		<filename file="meta">fr-FR.xml</filename>
 	</files>
 	<params />
-</install>
+</extension>
