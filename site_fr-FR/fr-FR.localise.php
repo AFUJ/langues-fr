@@ -1,6 +1,5 @@
 <?php
 /**
- * @version             $Id: fr-FR.localise.php 15628 2010-03-27 05:20:29Z infograf768 $
  * @copyright   Copyright (C) 2005 - 2011 Open Source Matters, Inc. All rights reserved.
  * @license             GNU General Public License version 2 or later; see LICENSE.txt
  */
@@ -9,7 +8,7 @@
  * fr-FR localise class
  *
  * @package             Joomla.Site
- * @since               1.6
+ * @since               2.5
  */
 abstract class fr_FRLocalise {    //// !!!! NOTE the use of fr_FR for the class !!!// do the same for your language prefix.
         /**
@@ -17,7 +16,7 @@ abstract class fr_FRLocalise {    //// !!!! NOTE the use of fr_FR for the class 
          *
          * @param       int $count  The number of items.
          * @return      array  An array of potential suffixes.
-         * @since       1.6
+         * @since       2.5
          */
         public static function getPluralSuffixes($count) {
                 if ($count == 0) {
@@ -35,7 +34,7 @@ abstract class fr_FRLocalise {    //// !!!! NOTE the use of fr_FR for the class 
          * Returns the ignored search words
          *
          * @return      array  An array of ignored search words.
-         * @since       1.6
+         * @since       2.5
          */
         public static function getIgnoredSearchWords() {
                 $search_ignore = array();
@@ -48,7 +47,7 @@ abstract class fr_FRLocalise {    //// !!!! NOTE the use of fr_FR for the class 
          * Returns the lower length limit of search words
          *
          * @return      integer  The lower length limit of search words.
-         * @since       1.6
+         * @since       2.5
          */
         public static function getLowerLimitSearchWord() {
                 return 3;
@@ -57,7 +56,7 @@ abstract class fr_FRLocalise {    //// !!!! NOTE the use of fr_FR for the class 
          * Returns the upper length limit of search words
          *
          * @return      integer  The upper length limit of search words.
-         * @since       1.6
+         * @since       2.5
          */
         public static function getUpperLimitSearchWord() {
                 return 20;
@@ -66,7 +65,7 @@ abstract class fr_FRLocalise {    //// !!!! NOTE the use of fr_FR for the class 
          * Returns the number of chars to display when searching
          *
          * @return      integer  The number of chars to display when searching.
-         * @since       1.6
+         * @since      2.5
          */
         public static function getSearchDisplayedCharactersNumber() {
                 return 200;
@@ -78,7 +77,7 @@ abstract class fr_FRLocalise {    //// !!!! NOTE the use of fr_FR for the class 
 		 *
 		 * @param	string	$string	The string to transliterate
 		 * @return	string	The transliteration of the string
-		 * @since	1.6
+		 * @since	2.5
 		 */
 		public static function transliterate($string)
 		{

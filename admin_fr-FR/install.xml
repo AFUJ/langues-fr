@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<extension version="1.7" client="administrator" type="language" method="upgrade">
+<extension version="2.5" client="administrator" type="language" method="upgrade">
 	<name>French (FR)</name>
     <tag>fr-FR</tag>
-	<version>1.7.3</version>
-	<creationDate>2011-11-14</creationDate>
+	<version>2.5.0</version>
+	<creationDate>2012-01-24</creationDate>
 	<author>French translation team : joomla.fr</author>
 	<authorEmail>traduction@joomla.fr</authorEmail>
 	<authorUrl>www.joomla.fr</authorUrl>
-    <copyright>Copyright (C) 2005 - 2011 joomla.fr et Open Source Matters. Tous droits réservés</copyright>
+    <copyright>Copyright (C) 2005 - 2012 joomla.fr et Open Source Matters. Tous droits réservés</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<description>fr-FR administrator language</description>
 	<files>
@@ -30,6 +30,8 @@
 		<filename>fr-FR.com_content.sys.ini</filename>
 		<filename>fr-FR.com_cpanel.ini</filename>
 		<filename>fr-FR.com_cpanel.sys.ini</filename>
+		<filename>fr-FR.com_finder.ini</filename>
+		<filename>fr-FR.com_finder.sys.ini</filename>
 		<filename>fr-FR.com_installer.ini</filename>
 		<filename>fr-FR.com_installer.sys.ini</filename>
 		<filename>fr-FR.com_languages.ini</filename>
@@ -96,8 +98,12 @@
 		<filename>fr-FR.plg_authentication_joomla.sys.ini</filename>
 		<filename>fr-FR.plg_authentication_ldap.ini</filename>
 		<filename>fr-FR.plg_authentication_ldap.sys.ini</filename>
+		<filename>fr-FR.plg_captcha_recaptcha.ini</filename>
+		<filename>fr-FR.plg_captcha_recaptcha.sys.ini</filename>
 		<filename>fr-FR.plg_content_emailcloak.ini</filename>
 		<filename>fr-FR.plg_content_emailcloak.sys.ini</filename>
+		<filename>fr-FR.plg_content_finder.ini</filename>
+		<filename>fr-FR.plg_content_finder.sys.ini</filename>
 		<filename>fr-FR.plg_content_geshi.ini</filename>
 		<filename>fr-FR.plg_content_geshi.sys.ini</filename>
 		<filename>fr-FR.plg_content_joomla.ini</filename>
@@ -126,6 +132,20 @@
 		<filename>fr-FR.plg_editors-xtd_readmore.sys.ini</filename>
 		<filename>fr-FR.plg_extension_joomla.ini</filename>
 		<filename>fr-FR.plg_extension_joomla.sys.ini</filename>
+		<filename>fr-FR.plg_finder_categories.ini</filename>
+		<filename>fr-FR.plg_finder_categories.sys.ini</filename>
+		<filename>fr-FR.plg_finder_contacts.ini</filename>
+		<filename>fr-FR.plg_finder_contacts.sys.ini</filename>
+		<filename>fr-FR.plg_finder_content.ini</filename>
+		<filename>fr-FR.plg_finder_content.sys.ini</filename>
+		<filename>fr-FR.plg_finder_newsfeeds.ini</filename>
+		<filename>fr-FR.plg_finder_newsfeeds.sys.ini</filename>
+		<filename>fr-FR.plg_finder_weblinks.ini</filename>
+		<filename>fr-FR.plg_finder_weblinks.sys.ini</filename>
+		<filename>fr-FR.plg_quickicon_extensionupdate.ini</filename>
+		<filename>fr-FR.plg_quickicon_extensionupdate.sys.ini</filename>
+		<filename>fr-FR.plg_quickicon_joomlaupdate.ini</filename>
+		<filename>fr-FR.plg_quickicon_joomlaupdate.sys.ini</filename>
 		<filename>fr-FR.plg_search_categories.ini</filename>
 		<filename>fr-FR.plg_search_categories.sys.ini</filename>
 		<filename>fr-FR.plg_search_contacts.ini</filename>
@@ -140,6 +160,12 @@
 		<filename>fr-FR.plg_system_cache.sys.ini</filename>
 		<filename>fr-FR.plg_system_debug.ini</filename>
 		<filename>fr-FR.plg_system_debug.sys.ini</filename>
+		<filename>fr-FR.plg_system_finder.ini</filename>
+		<filename>fr-FR.plg_system_finder.sys.ini</filename>
+		<filename>fr-FR.plg_system_highlight.ini</filename>
+		<filename>fr-FR.plg_system_highlight.sys.ini</filename>
+		<filename>fr-FR.plg_system_languagecode.ini</filename>
+		<filename>fr-FR.plg_system_languagecode.sys.ini</filename>
 		<filename>fr-FR.plg_system_languagefilter.ini</filename>
 		<filename>fr-FR.plg_system_languagefilter.sys.ini</filename>
 		<filename>fr-FR.plg_system_log.ini</filename>
