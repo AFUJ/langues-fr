@@ -2,12 +2,12 @@
 <install version="1.6" client="site" type="language" method="upgrade">
 	<name>French (FR)</name>
     <tag>fr-FR</tag>
-	<version>1.6.0</version>
+	<version>1.6.2</version>
 	<creationDate>2010-12-24</creationDate>
-	<author>French translation team : Joomla!fr</author>
+	<author>French translation team : joomla.fr</author>
 	<authorEmail>traduction@joomla.fr</authorEmail>
 	<authorUrl>www.joomla.fr</authorUrl>
-    <copyright>Copyright (C) 2005 - 2010 Joomla.fr et Open Source Matters. Tous droits réservés</copyright>
+    <copyright>Copyright (C) 2005 - 2010 joomla.fr et Open Source Matters. Tous droits réservés</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<description>fr-FR site language</description>
 	<files>
@@ -22,6 +22,7 @@
 		<filename>fr-FR.com_users.ini</filename>
 		<filename>fr-FR.com_weblinks.ini</filename>
 		<filename>fr-FR.com_wrapper.ini</filename>
+		<filename>fr-FR.files_joomla.sys.ini</filename>
 		<filename>fr-FR.ini</filename>
 		<filename>fr-FR.lib_joomla.ini</filename>
 		<filename>fr-FR.localise.php</filename>

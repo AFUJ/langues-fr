@@ -1,12 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- $Id: fr-FR.xml 20196 2011-01-09 02:40:25Z sarki $ -->
 <metafile version="1.6" client="administrator">
 	<tag>fr-FR</tag>
 	<name>French (FR)</name>
 	<description>French administrator language for Joomla 1.6</description>
-	<version>1.6.1</version>
+	<version>1.6.2</version>
 	<creationDate>2011-02-23</creationDate>
-	<author>French translation team : Joomla!fr</author>
+	<author>French translation team : joomla.fr</author>
 	<authorEmail>traduction@joomla.fr</authorEmail>
 	<authorUrl>www.joomla.fr</authorUrl>
 	<copyright>Copyright (C) 2005 - 2011 Open Source Matters &amp; Joomla.fr. All rights reserved.</copyright>
