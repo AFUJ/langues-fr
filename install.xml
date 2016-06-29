@@ -9,7 +9,7 @@
     <authorurl>www.joomla.fr</authorurl>
     <copyright>Copyright (C) 2005 - 2010 Joomla.fr et Open Source Matters. Tous droits réservés</copyright>
     <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
-    <description>French language pack for Joomla! 1.5.16</description>
+    <description>French language pack for Joomla! 1.5.17</description>
     <administration>
       <files folder="admin">
         <filename>fr-FR.com_admin.ini</filename>
