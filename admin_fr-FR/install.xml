@@ -3,7 +3,7 @@
 <install version="1.6" client="administrator" type="language" method="upgrade">
 	<name>French (FR)</name>
     <tag>fr-FR</tag>
-	<version>1.6.3</version>
+	<version>1.6.4</version>
 	<creationDate>2011-02-23</creationDate>
 	<author>French translation team : joomla.fr</author>
 	<authorEmail>traduction@joomla.fr</authorEmail>

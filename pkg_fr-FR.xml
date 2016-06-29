@@ -2,11 +2,11 @@
 <extension type="package" version="1.6">
 <name>French Language Pack</name>
 <packagename>fr-FR</packagename>
-<version>1.6.3</version>
+<version>1.6.4</version>
 <url></url>
 <packager></packager>
 <packagerurl></packagerurl>
-<description>1.6 Joomla Full French Language Package</description>
+<description>1.6.4 Joomla Full French Language Package</description>
 <files>
         <file type="language" client="site" id="fr-FR">site_fr-FR.zip</file>
         <file type="language" client="administrator" id="fr-FR">admin_fr-FR.zip</file>
