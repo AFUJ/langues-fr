@@ -8,3 +8,4 @@ Dépot des fichiers de langues FR des différentes versions de Joomla!
 - 25/10/2016 : version 3.6.1.1 pour Joomla! 3.6.1
 - 25/10/2016 : version 3.6.2.1 pour Joomla! 3.6.2
 - 25/10/2016 : version 3.6.3.1 pour Joomla! 3.6.3
+- 25/10/2016 : version 3.6.4.1 pour Joomla! 3.6.4
