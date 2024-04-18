@@ -6,11 +6,11 @@ AFUJ / Joomla.fr : Dépôt GIT de Traduction FR de Joomla!
 
 ## DESCRIPTION
 
-L'équipe de traduction de l'AFUJ (Association Francophone des Utilisateurs de Joomla) fournit une traduction en français pour le système de gestion de contenu open source Joomla! basé sur les contributions fournis par la communauté sur crowdin.
+L'équipe de traduction de l'AFUJ (Association Francophone des Utilisateurs de Joomla) fournit une traduction en français pour le système de gestion de contenu open source Joomla! basé sur les contributions fournis par la communauté sur [Crowdin](https://joomla.crowdin.com/cms/fr).
 
 ## INSTALLATION DEPUIS L'INTERFACE D'ADMINISTRATION DE JOOMLA
 
-Veuillez vous rendre sur l'administration de votre site (backend) &rightarrow; System &rightarrow; Languages &rightarrow; Install Languages (yourdomain.tld/administrator/index.php?option=com_installer&view=languages) and search for **french**. 
+Veuillez vous rendre sur l'administration de votre site (backend) &rightarrow; System &rightarrow; Languages &rightarrow; Install Languages (yourdomain.tld/administrator/index.php?option=com_installer&view=languages) et rechercher **french**. 
 
 ## TÉLÉCHARGEMENT DES PACKAGES PRÊTS À L'EMPLOI
 
