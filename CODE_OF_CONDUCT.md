@@ -1,47 +1,43 @@
-# Code de Conduite du Covenant des Contributeurs
+# CHARTE CODE DE CONDUITE CONTRIBUTEURS
 
 ## Notre Engagement
 
-Dans l'intérêt de favoriser un environnement ouvert et accueillant, nous, en tant que contributeurs et mainteneurs, nous engageons à rendre la participation à notre projet et à notre communauté une expérience sans harcèlement pour tout le monde, indépendamment de l'âge, de la taille, du handicap, de l'origine ethnique, des caractéristiques sexuelles, de l'identité de genre et de l'expression, du niveau d'expérience, de l'éducation, du statut socio-économique, de la nationalité, de l'apparence personnelle, de la race, de la religion, ou de l'identité et de l'orientation sexuelles.
+Dans l’intérêt de favoriser un environnement ouvert et accueillant, nous nous engageons, en tant que responsables et en tant que personnes contribuant à ce projet, à faire de la participation une expérience exempte de harcèlement pour tout le monde, quel que soit le niveau d’expérience, le sexe, l’identité ou l’expression de genre, l’orientation sexuelle, le handicap, l’apparence personnelle, la taille physique, l’origine ethnique, l'âge, la religion ou la nationalité.
 
 ## Nos Normes
 
 Les exemples de comportement qui contribuent à créer un environnement positif
 incluent :
 
-* Utiliser un langage accueillant et inclusif
-* Respecter les points de vue et expériences différents
-* Accepter gracieusement les critiques constructives
-* Se concentrer sur ce qui est le mieux pour la communauté
-* Faire preuve d'empathie envers les autres membres de la communauté
+* l’utilisation d’un langage ouvert et accueillant
+* le respect des différents points de vue et expériences vécues
+* accepter poliment les critiques constructives
+* se concentrer sur ce qui est meilleur pour la communauté
+* faire preuve d’empathie envers les autres membres de la communauté
 
 Les exemples de comportement inacceptable de la part des participants comprennent :
 
-* L'utilisation de langage ou d'images sexualisés et l'attention sexuelle non désirée ou
-avances
-* Le trolling, les commentaires insultants/dérogatoires et les attaques personnelles ou politiques
-* Le harcèlement public ou privé
-* La publication d'informations privées sur d'autres, telles qu'une adresse physique ou électronique,
-sans autorisation explicite
-* Tout autre comportement qui pourrait raisonnablement être considéré comme inapproprié dans un cadre
-professionnel
+* l’utilisation de langage ou d’imagerie sexualisés et les avances sexuelles non sollicitées
+le trolling, les commentaires insultants ou désobligeants, et les attaques personnelles ou d’ordre politique
+* le harcèlement en public ou en privé
+* la publication d’informations privées de tierces personnes, telles que des adresses physiques ou électroniques, sans permission explicite
+* toute conduite qui pourrait être raisonnablement considérée comme inappropriée dans le milieu professionnel
 
 ## Nos Responsabilités
 
-Les mainteneurs du projet sont responsables de clarifier les normes de comportement acceptable et sont censés prendre des mesures correctives appropriées et équitables en réponse à tout cas de comportement inacceptable.
+Les responsables du projet doivent clarifier les critères de comportement acceptables de ce projet : il est attendu que ces personnes prennent les mesures correctives justes comme réponse à tout comportement inacceptable.
 
-Les mainteneurs du projet ont le droit et la responsabilité de supprimer, modifier ou rejeter des commentaires, des commits, du code, des modifications wiki, des problèmes et d'autres contributions qui ne sont pas alignés sur ce Code de Conduite, ou de bannir temporairement ou définitivement tout contributeur pour d'autres comportements qu'ils jugent inappropriés, menaçants, offensants ou nuisibles.
+Les personnes qui assurent la maintenance du projet ont le droit et la responsabilité de supprimer, modifier ou rejeter les commentaires, commits, code, modifications du wiki, questions et autres contributions qui ne respectent pas ce Code de Conduite, ou de bannir temporairement ou définitivement quiconque, suite à des comportements jugés inappropriés, menaçants, injurieux, ou nuisibles.
 
-## Portée
+## Objectifs
 
-Ce Code de Conduite s'applique à la fois dans les espaces du projet et dans les espaces publics
-lorsqu'un individu représente le projet ou sa communauté. Les exemples de représentation d'un projet ou d'une communauté incluent l'utilisation d'un courrier électronique officiel du projet, la publication via un compte de média social officiel, ou agir en tant que représentant désigné lors d'un événement en ligne ou hors ligne. La représentation d'un projet peut être davantage définie et clarifiée par les mainteneurs du projet.
+Ce Code de Conduite s’applique à la fois au sein des espaces du projet ainsi que dans les espaces publics lorsqu’un individu représente le projet ou sa communauté. Font parties des exemples de représentation d’un projet ou d’une communauté le fait d’utiliser une adresse email propre au projet, de poster sur les réseaux sociaux avec un compte officiel, ou d’intervenir pour représenter le projet au cours d’un événement en-ligne ou hors-ligne. La représentation du projet pourra être autrement définie et clarifiée par les responsables du projet.
 
 ## Application
 
-Les cas de comportement abusif, harcelant ou autrement inacceptable peuvent être signalés en contactant l'équipe du projet à l'adresse ca@joomla.fr. Toutes les plaintes seront examinées et enquêtées et entraîneront une réponse qui est jugée nécessaire et appropriée aux circonstances. L'équipe du projet est tenue de maintenir la confidentialité concernant le rapporteur d'un incident. D'autres détails sur les politiques d'application spécifiques peuvent être publiés séparément.
+Les cas de comportements abusifs, harcelants ou tout autre comportement inacceptable peuvent être signalés en contactant l'équipe du projet ca@joomla.fr. Toutes les plaintes seront examinées et étudiées et se traduiront par une réponse appropriée aux circonstances. L'équipe du projet s’engage à garder confidentielles les informations de la personne qui remonte un incident. Plus de détails sur la politique de mise en application des règles peuvent être publiés séparément.
 
-Les mainteneurs du projet qui ne suivent pas ou n'appliquent pas le Code de Conduite de bonne foi peuvent faire face à des répercussions temporaires ou permanentes telles que déterminées par d'autres membres de la direction du projet.
+Les membres du projet qui ne suivent ou qui n’appliquent pas le Code de Conduite de bonne foi s’exposent temporairement ou de façon permanente à des répercussions définies par d’autres membres de la direction du projet.
 
 ## Attribution
 
