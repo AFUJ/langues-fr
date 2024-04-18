@@ -1,5 +1,5 @@
-# Contributing to joomla france/joomla
-(Fichiers de langue allemande pour Joomla! 5.1 et ultérieur)
+# Contribuer à la traduction de Joomla FR/joomla
+(Fichiers de langue français pour Joomla! 5.1 et ultérieur)
 
 :+1::tada: Tout d'abord, merci d'avoir pris le temps de contribuer! :tada::+1:
 
