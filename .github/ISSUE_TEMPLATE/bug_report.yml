@@ -1,0 +1,52 @@
+name: Rapport de bug
+description: Signaler une suggestion d'amélioration ou un bug.
+title: "[4.x/5.x] "
+labels: ["amélioration"]
+assignees:
+  - ygomiero
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci de prendre le temps de partager cette suggestion d'amélioration ou ce bug avec la communauté.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Qu'est-ce qui doit être amélioré / corrigé ?
+      description: Veuillez décrire aussi précisément que possible, **pourquoi** uelque chose doit être amélioré ou corrigé.
+      placeholder: N'hésitez pas à fournir des captures d'écran et des messages d'erreur !
+    validations:
+      required: true
+  - type: textarea
+    id: where-happened
+    attributes:
+      label: Où le texte de langue est-il affiché (Frontend/Backend) ?
+      description: Veuillez décrire aussi précisément que possible **l'endroit**, où quelque chose doit être amélioré ou corrigé.
+      placeholder: N'hésitez pas à fournir des captures d'écran et des messages d'erreur !
+    validations:
+      required: true
+  - type: textarea
+    id: new-translation
+    attributes:
+      label: Quelle serait une meilleure traduction / désignation ?
+      description: Voici de la place pour votre suggestion.
+      placeholder: N'hésitez pas à fournir des captures d'écran de ce à quoi cela pourrait ressembler dans le frontend ou le backend !
+    validations:
+      required: false
+  - type: dropdown
+    id: version
+    attributes:
+      label: Version de Joomla
+      description: Quelle version de Joomla est utilisée ?
+      options:
+        - 5.x
+        - 4.x
+    validations:
+      required: true
+  - type: textarea
+    id: information
+    attributes:
+      label: Informations supplémentaires
+      description: oici de la place pour des informations supplémentaires ou des liens vers le forum, etc.
+    validations:
+      required: false
