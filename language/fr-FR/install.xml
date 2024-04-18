@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<extension version="3.9" client="site" type="language" method="upgrade">
-	<name>French (France)</name>
+<?xml version="1.0" encoding="UTF-8"?>
+<extension client="site" type="language" method="upgrade">
+	<name>French (fr-FR)</name>
 	<tag>fr-FR</tag>
-	<version>3.10.1.1</version>
-	<creationDate>2021-08-25</creationDate>
-	<author>French translation team : joomla.fr</author>
+	<version>5.1.0</version>
+	<creationDate>2024-04-16</creationDate>
+	<author>Joomla! Project - French translation team</author>
 	<authorEmail>traduction@joomla.fr</authorEmail>
-	<authorUrl>https://joomla.fr</authorUrl>
-	<copyright>(C) 2013 Joomla.fr and Open Source Matters, Inc.</copyright>
+	<authorUrl>www.joomla.fr</authorUrl>
+	<copyright>(C) 2013 Open Source Matters, Inc.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-	<description>fr-FR - Site language</description>
+	<description>fr-FR site language</description>
 	<files>
 		<folder>/</folder>
 		<filename file="meta">install.xml</filename>
