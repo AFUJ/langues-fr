@@ -47,6 +47,6 @@ body:
     id: information
     attributes:
       label: Informations supplémentaires
-      description: oici de la place pour des informations supplémentaires ou des liens vers le forum, etc.
+      description: N'hésitez pas à donner des informations supplémentaires ou des liens vers le forum, etc.
     validations:
       required: false
