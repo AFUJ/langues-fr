@@ -1,4 +1,4 @@
-# CHARTE CODE DE CONDUITE CONTRIBUTEURS
+# Charte de code de conduite des contributeurs
 
 ## Notre Engagement
 
