@@ -1,4 +1,17 @@
 ![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/AFUJ/langues-fr?color=green&include_prereleases&label=release&style=for-the-badge) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/AFUJ/langues-fr/5.1-dev?style=for-the-badge) ![GitHub](https://img.shields.io/github/license/AFUJ/langues-fr?style=for-the-badge)
 
 # langues-fr
-Fichiers de langues FR des différentes versions de Joomla!
+J!German: Joomla! Core Translation GIT Repository
+======================================
+
+## DESCRIPTION
+
+L'équipe de traduction de l'AFUJ (Association Francophone des Utilisateurs de Joomla) fournit une traduction en français pour le système de gestion de contenu open source Joomla! basé sur les contributions fournis par la communauté sur crowdin.
+
+## INSTALLATION DEPUIS L'INTERFACE D'ADMINISTRATION DE JOOMLA
+
+Veuillez vous rendre sur l'administration de votre site (backend) &rightarrow; System &rightarrow; Languages &rightarrow; Install Languages (yourdomain.tld/administrator/index.php?option=com_installer&view=languages) and search for **french**. 
+
+## TÉLÉCHARGEMENT DES PACKAGES PRÊTS À L'EMPLOI
+
+Nos paquets peuvent être téléchargés depuis les  [versions](https://github.com/AFUJ/langues-fr/releases) ou depuis notre site web : https://www.joomla.fr/
