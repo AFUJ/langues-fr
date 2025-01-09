@@ -2,7 +2,7 @@
 
 # langues-fr
 AFUJ / Joomla.fr :
-Dépôt GIT de Traduction FR de Joomla! 5.2.2
+Dépôt GIT de Traduction FR de Joomla! 5.2.3
 ======================================
 
 ## DESCRIPTION
