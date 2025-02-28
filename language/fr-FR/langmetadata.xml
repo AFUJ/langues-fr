@@ -13,9 +13,9 @@
 		<name>French (fr-FR)</name>
 		<nativeName>French (fr-FR)</nativeName>
 		<tag>fr-FR</tag>
-		<rtl>1</rtl>
+		<rtl>0</rtl>
 		<locale>fr_FR.utf8, fr_FR.UTF-8, fr_FR, fr, français, french-fr, france, francophone</locale>
-		<firstDay>0</firstDay>
+		<firstDay>1</firstDay>
 		<weekEnd>0,6</weekEnd>
 		<calendar>gregorian</calendar>
 	</metadata>
